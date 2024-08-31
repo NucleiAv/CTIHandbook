@@ -8,6 +8,6 @@ Note - This book is under process and will be completed/updated regularly as wel
 
 Topics in each cover all important concepts. It is assumed that the reader is unfamiliar with this topic. For experienced readers, this text might be good for a quick revision.
 
-The source code for the book can be found on [GitHub](https://github.com/NucleiAv/MalwareHandbook).
+The source code for the book can be found on [GitHub](https://github.com/NucleiAv/CTIHandbook).
 
-The canonical URL for the book is [here](https://nuclei-av.gitbook.io/malware-handbook).
+The canonical URL for the book is [here](https://nuclei-av.gitbook.io/cyber-threat-intelligence).

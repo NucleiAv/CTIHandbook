@@ -2,7 +2,7 @@
 
 Please Don't Forgot to Hit ⭐
 
-This book is written for people who want to understand the basics, keynotes regarding Cyber Threat Intelligence, Risk Analysis, Tools and Frameworks, and also for security researchers who want to get started in the field of CTI/ Threat Intel.
+This book is written for people who want to understand the basics, keynotes regarding Cyber Threat Intelligence, Risk Analysis, Tools and Frameworks, and also for security researchers who want to get started in the field of CTI/ Threat Intel. It also includes various Practice Labs which might be helpful to understand the semi-theoritical concepts better.
 
 Note - This book is under process and will be completed/updated regularly as well, as and when I come cross something which needs updation.
 

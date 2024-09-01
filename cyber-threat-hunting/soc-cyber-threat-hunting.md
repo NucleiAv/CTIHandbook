@@ -9,6 +9,7 @@
   * Focus on moving beyond traditional, reactive SOC operations to anticipate and mitigate threats before they materialize.
 * **Traditional SOC Operations:**
   * SOC analysts (levels 1 through 4) are skilled at working within a scripted, reactive environment.
+  * Cyber forensic investigation is typically performed by level 3 and level 4 analysts within the SOC, and it is a reactive process. In this context, when a threat has been carried out and a vulnerability exploited, an investigation is necessary. While you are indeed searching for the threat, it is done within the framework of a cyber forensic investigation.
   * Current practices involve cyber forensic investigations, which are reactive rather than proactive.
 * **Proactive Cyber Threat Hunting:**
   * A proactive approach to identifying, intercepting, tracking, investigating, and eliminating adversaries before they cause harm.

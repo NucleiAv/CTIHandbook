@@ -1,6 +1,6 @@
 # Preface
 
-Please Don't Forgot to Hit ⭐
+Please Don't Forget to Hit ⭐
 
 This book is written for people who want to understand the basics, keynotes regarding Cyber Threat Intelligence, Risk Analysis, Tools and Frameworks, and also for security researchers who want to get started in the field of CTI/ Threat Intel. It also includes various Practice Labs which might be helpful to understand the semi-theoritical concepts better.
 
